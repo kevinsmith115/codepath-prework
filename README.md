@@ -21,6 +21,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- **Webtoon**
+  - Notifications when new chapters are released
+  - Ability to upload projects
+- **Duolingo**
+   - Friend system for seeing user's experience gains
+   - Progression meter showing user progress in courses
+- **Tiktok**
+  - Seamless video scrolling
+  - Video download feature
+ 
+ ### Project Idea
+I want to make an App that tracks life totals in card games like Magic the Gathering. The basic features are the ability to take user input to set the number of players in the game, the player starting life total, and buttons to add or deduct life from the player's current life total. The players should be separated into color-coded sections of the screen with optional labels for player names. There will also be a view containing the history of life changes and a timestamp of when it was changed. 
+ 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
